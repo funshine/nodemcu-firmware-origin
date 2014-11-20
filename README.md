@@ -1,5 +1,6 @@
 # **NodeMcu** #
-# This repo is moved to [https://github.com/nodemcu/nodemcu-firmware](https://github.com/nodemcu/nodemcu-firmware) #
+###This repo is moved to [https://github.com/nodemcu/nodemcu-firmware](https://github.com/nodemcu/nodemcu-firmware)
+###Sorry for the inconvenience
 ###A lua based firmware for wifi-soc esp8266
 version 0.9.2 build 2014-11-20
 # Change log
